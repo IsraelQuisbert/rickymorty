@@ -12,7 +12,6 @@ const Residents = ({ resident }) => {
                 setResidents(res.data)
                 setStatus(res.data.status)
             })
-
     },[resident])
 
     console.log(status);
