@@ -211,6 +211,10 @@ div>h3{
     grid-template-columns: 250px;
   }
 
+  .location{
+    width: 380px;
+  }
+
   .location>div{
     display: grid;
     grid-template-columns: 200px 200px;
