@@ -212,13 +212,13 @@ div>h3{
   }
 
   .location{
-    width: 380px;
+    width: 400px;
   }
 
   .location>div{
     display: grid;
     grid-template-columns: 200px 200px;
-    gap: 20px;
+    gap: 10px;
   }
 
   input{
